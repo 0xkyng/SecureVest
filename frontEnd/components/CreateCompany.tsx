@@ -143,7 +143,7 @@ export function CreateCompany() {
 
         <button
           type="submit"
-          className="bg-[#7F56D9] text-white px-4 py-2 rounded-lg"
+          className="bg-[#FFA500] text-white px-4 py-2 rounded-lg"
         >
           Create Company
         </button>
