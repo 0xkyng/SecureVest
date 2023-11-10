@@ -17,7 +17,7 @@ The contract implements the following features:
 
 ## Live Url:
 
-https://360-vest-wise.vercel.app/
+https://secure-vest.vercel.app/
 
 
 ### Contract Addresses
